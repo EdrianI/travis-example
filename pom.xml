@@ -42,5 +42,11 @@
 		<artifactId>apache-rat-tasks</artifactId>
 		<version>0.12</version>		
 	</dependency>	
+    <dependency>
+        <groupId>org.scalacheck</groupId>
+        <artifactId>scalacheck_2.11</artifactId>
+        <version>1.12.5</version>
+        <scope>test</scope>
+    </dependency>
   </dependencies>  
 </project>  
