@@ -1,5 +1,0 @@
-language: java
-script: "mvn -f /travis-hello-world/pom.xml package"
-
-notifications:
-  email: false
